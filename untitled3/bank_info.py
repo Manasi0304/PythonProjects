@@ -1,0 +1,13 @@
+print("enter account number of account holder")
+anum=int(input())
+print("enter name of account holder")
+ahn=str(input())
+print("enter bank name of account holder")
+bn=str(input())
+print("enter IFSC code of account holder ")
+ifsc_c=str(input())
+
+print("account number is ",anum)
+print("name of account holder is",ahn)
+print("bank  name is ",bn)
+print("IFSC code of account holder is ",ifsc_c)

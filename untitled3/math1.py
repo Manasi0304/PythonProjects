@@ -1,0 +1,6 @@
+a=bin(10)
+print("binary=",a)
+b=oct(10)
+print("octal=",b)
+c=hex(10)
+print("hexadecimal=",c)
